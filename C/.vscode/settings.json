@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "exercicio2.C": "cpp",
+        "exercicio3.C": "cpp",
+        "exercicio4.C": "cpp",
+        "exercicio5.C": "cpp",
+        "exercicio6.C": "cpp",
+        "exercicio7.C": "cpp",
+        "exercicio8.C": "cpp",
+        "exercicio1.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
